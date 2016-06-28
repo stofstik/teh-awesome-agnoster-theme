@@ -1,8 +1,8 @@
 # teh-awesome-agnoster-theme
 
-## All credits go to https://github.com/agnoster/agnoster-zsh-theme!
+### All credits go to https://github.com/agnoster/agnoster-zsh-theme!
 
-### This is a modified agnoster theme that starts on a new line with added command history number
+This is a modified agnoster theme that starts on a new line with added command history number
 
 ### Installation:
 
